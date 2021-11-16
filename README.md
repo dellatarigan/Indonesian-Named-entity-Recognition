@@ -18,7 +18,9 @@ Jelaskan cara instalasi / pengaturan lingkungan lokal / tambahkan link ke versi 
 Proyek ini menggunakan 
 * Python 3.8
 * Google Colab 
-# Model ![pic1](https://user-images.githubusercontent.com/60686944/141883443-11773cb1-d898-47aa-9bee-79a26cd68777.png)
+# Model 
+![model](https://user-images.githubusercontent.com/51292780/141885155-8b2d472c-a8ff-4716-ae26-bb7c21adf138.png)
+
 # Dataset 
 Pada proyek ini menggunakan dataset singgalang , dan dapat diakses melalui link berikut : 
 https://github.com/ialfina/ner-dataset-modified-dee/blob/master/singgalang/SINGGALANG.tsv
